@@ -52,12 +52,6 @@
 
 ---
 
-## Credits
-
-Developed by [@OrcaMods](https://t.me/OrcaMods)
-
----
-
 ### Join Our Official Channel(s)
 - [Orca Labs](https://t.me/OrcaOnSteroids)
 ### Our Group Link(s):
