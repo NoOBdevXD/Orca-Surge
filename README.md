@@ -42,7 +42,7 @@
 
 ## Installation
 
-1. Download the latest APK from the [Releases](https://github.com/your-username/your-repo/releases) section.
+1. Download the latest APK from the [Releases](https://github.com/NoOBdevXD/Orca-Surge/releases/tag/V1.0) section.
 2. Install it on your rooted device.
 3. Grant root access on first launch.
 4. Choose your desired performance profile.
