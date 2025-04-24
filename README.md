@@ -3,7 +3,6 @@
 ![1000029693](https://github.com/user-attachments/assets/9c5d877c-d699-4e33-9932-f101caac8a21)
 
 
-
 > **Root access is required** to apply system-level performance settings.
 
 ---
@@ -20,20 +19,24 @@
 ## Profiles
 
 ### **Balance**
-- Smooth performance for daily use
-- Great battery life
+- Uses `schedutil` governor for smooth scaling
+- Medium CPU/GPU frequencies for stable daily use
+- Great battery life with minimal performance compromise
 
 ### **Performance**
-- Faster system response
-- Reduces graphics load to save battery
+- Higher CPU clocks for faster app response
+- Reduced GPU load to save battery and avoid heat
+- Ideal for daily power users
 
 ### **Battery**
-- Maximum battery saving
-- Limits performance to extend usage time
+- Lowered CPU/GPU frequencies to reduce power draw
+- CPU boost features disabled to extend endurance
+- Best for standby and long usage scenarios
 
 ### **Gaming**
-- Unlocks graphics for smoother rendering
-- Boosts performance (up to +10 FPS in games)
+- CPU and GPU pushed to maximum allowed limits
+- Unlocks full graphics potential for smooth rendering
+- Designed to deliver +10 FPS boost in supported games
 
 ---
 
